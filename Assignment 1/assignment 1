@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="author" content="Arnav Sinha">
+  <meta name="description" content="This is my profile">
+  <title>My profile</title>
+</head>
+<body >
+  <h1 align=center><b><i>Arnav Sinha</i></b></h1>
+  <h2><u>Skills</u></h2>
+  <p><b>Beginner in Html,Css,Python,Java</b></p>
+  <h2><u>Education</u></h2>
+  <p>Class: <b>11th</b><br>Stream: <b>Pcm</b><br>School: <b>St.Karens High School</b></p>
+  <h2><u>Career Goals</u></h2>
+  <p>I want to become an <b>&quot;Advance programmer&quot;</b>&nbsp;,&nbsp;<b>&quot;A Fullstack Web Developer&quot;</b><br>And after that a great<b><u>&quot;Entreprenuer&quot;</u></b></p>
+  <h3><u>Contact</u></h3>
+  <p><i>9102636762</i></p>
+  <h3><u>Email</u></h3>
+  <i>arnavsinha23456789@gmail.com</i>
+</body>
+</html>
