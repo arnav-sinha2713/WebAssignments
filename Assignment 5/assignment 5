@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Arnav Sinha">
+    <title>All about Batman</title>
+</head>
+<body>
+    <section>
+        <h1><u>Batman</u></h1>
+        <p>
+            Batman operates in the fictional Gotham city with assistance from various supporting charcters, including his butler Alfred, police commissioner Jim Gordon, and viglante allies such as Robin. Unlike most superheroes, Batman does not possess any <b><i>inhuman superpowers.</i></b> 
+        </p>
+        <h3>Images of Batman</h3>
+        <img src="https://i.ytimg.com/vi/EBj2q_LsFJc/maxresdefault.jpg" alt="Batman" height="300">
+        <img src="https://clipartion.com/wp-content/uploads/2015/10/batman-clipart-download-images.jpg" alt="Batman" height="320">
+        <img src="https://i.ytimg.com/vi/2ys0OSj4STQ/maxresdefault.jpg" alt="Batman" height="300">
+        <img src="https://comicvine1.cbsistatic.com/uploads/original/11116/111163466/5401070-batman_arkham_knight_by_dushans-d794osm.jpg" alt="Batman" height="300">
+    </section>
+    <section>
+        <h3>Audios of Batman</h3>
+        <audio src="BatMobile.mp3" controls loop preload="metadata"></audio>
+    </section>
+    <section>
+        <h3>Videos of Batman</h3>
+        <video src="BatmanVideo.mp4" height="210" controls loop autoplay muted preload="metadata"></video>
+        <video src="dark_knight.mp4" height="210" controls loop autoplay muted preload="metadata"></video>
+    </section>
+</body>
+</html>
