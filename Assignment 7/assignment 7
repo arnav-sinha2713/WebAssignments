@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="green">
+    <h1><i><u>Welcome ! To Coding Blocks Junior </u></i></h1>
+    <iframe src="https://codingblocks.com/" frameborder="1" height="500" width="2200"></iframe>
+    <h1><u><i>Some portion of other page :</i></u></h1>
+    <iframe src="otherpage.html#one" frameborder="1"></iframe>
+    <iframe src="otherpage.html#nine" frameborder="1"></iframe>
+    <iframe src="otherpage.html#five" frameborder="1"></iframe>
+    <h1><u><i>Embedding some videos :</i></u></h1>
+    <embed src="../Assignment5.html/BatmanVideo.mp4" type="videos">
+</body>
+</html>
